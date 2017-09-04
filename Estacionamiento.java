@@ -18,7 +18,7 @@ public class Estacionamiento
         {
             for(int i=0; i < vehiculos.length; i++)
             {
-                //vehiculos[i].registro(vehicu);
+                //vehiculos[i].registro(vehiculo.hora);
             }
         }
     }
